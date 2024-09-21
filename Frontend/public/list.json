@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "The Unproposed Guy",
+    "title": "A story of Kevin, who explores his talents in stand-up comedy and rapping while navigating unrequited love and self-discovery.",
+    "price": 0,
+    "category": "free",
+    "image": "https://www.write-right.in/wp-content/uploads/2023/05/image-90.png"
+  },
+  {
+    "id": 2,
+    "name": "The Boy Who Loved ",
+    "title": " A touching story of Raghu, who carries the emotional burden of a tragic past while finding love with a girl who helps him heal.",
+    "price": 0,
+    "category": "free",
+    "image": "https://ik.imagekit.io/shortpedia/Voices/wp-content/uploads/2021/02/The-Boy-Who-Loved.jpg"
+  },
+  {
+    "id": 3,
+    "name": "I Too Had a Love Story",
+    "title": "A deeply personal and emotional tale of love and loss, based on the author's own life experiences..",
+    "price": 0,
+    "category": "free",
+    "image": "https://1.bp.blogspot.com/-GEONmIJH9N4/X2LzLwYqrfI/AAAAAAAAEso/0_hgPWqPy50dkfGbQehlpx4Q7Bvr5My7gCNcBGAsYHQ/w361-h400/I%2BToo%2BHad%2Ba%2BLove%2BStory.jpg"
+  },
+  {
+    "id":4,
+    "name":" Fasting, Feasting",
+    "title":" A portrayal of the constraints placed on women in a traditional Indian family, particularly through the character Uma, who is overshadowed by her brother.",
+    "price":0,
+    "category":"free",
+    "image":"https://rukminim1.flixcart.com/image/832/832/kj36ky80-0/book/k/c/m/fasting-feasting-english-anita-desai-paperback-g-vaidyanathan-original-imafyqfs7kreyhc9.jpeg?q=70"
+},
+{
+    "id":5,
+    "name":"The Namesake",
+    "title":"A novel about the challenges faced by a Bengali family as they immigrate to the United States, focusing on cultural identity and generational conflict.",
+    "price":0,
+    "category":"free",
+    "image":"https://th.bing.com/th/id/OIP.8T08zlFBvt1p7HVytbmcfQAAAA?pid=ImgDet&w=184&h=270&c=7&dpr=1.4"
+},
+{
+  "id":6,
+  "name":" A Suitable Boy",
+  "title":"  Set in post-independence India, this is a vast, multi-character novel about Lata and her mother’s quest to find a “suitable boy” for her to marry.",
+  "price":0,
+  "category":"free",
+  "image":"https://images.indianexpress.com/2023/06/a-suitable-boy.jpg"
+}
+]
