@@ -26,8 +26,11 @@ function Navebar() {
             <li className='hover:border-b-2 border-solid border-red-500'>
               <a href="/course">Course</a>
             </li>
-            <li className='hover:border-b-2 border-solid border-red-500'>Contact</li>
-            <li className='hover:border-b-2 border-solid border-red-500'>About</li>
+            <li className='hover:border-b-2 border-solid border-red-500'>
+              <a href="/Contact">Contact</a>
+            </li>
+            <li className='hover:border-b-2 border-solid border-red-500'>
+              About</li>
           </ul>
           <div className='flex gap-5 ml-5 items-center'>
             <input type="text" placeholder='Search here' className='w-72 rounded-lg p-1 px-2 text-black' />
